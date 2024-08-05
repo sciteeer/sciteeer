@@ -6,7 +6,7 @@
 
 
 
--  ᴍɪɴᴇᴄʀᴀꜰᴛ ꜱᴇʀᴠᴇʀ ᴄᴏɴꜰɪɢᴜʀᴀᴛᴏʀ & ꜱᴇᴛᴜᴘ ꜱᴘᴇᴄɪᴀʟɪꜱᴛ
--  ᴅɪꜱᴄᴏʀᴅ ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ
+-  Minecraft Server Configurator & Setup Specialist
+-  Discord bot developer
 
 
