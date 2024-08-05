@@ -21,8 +21,8 @@
 
 <h1 align="center">Hello! 👋</h1>
 
-- :telescope: I’m working on Discord Bots in NodeJS.
+-  
 
-- :seedling: I want to learn more programming languages.
+- 
 
-- :zap: In my free time I like to try new things.
+- 
