@@ -4,7 +4,7 @@
 
 
 <div id ="views" align="center">
-<img src="https://komarev.com/ghpvc/?username=sciteeer&style=flat-square&color=blue&"width="300"/>  
+<img src="https://komarev.com/ghpvc/?username=sciteeer&style=flat-square&color=blue&"width="300"hight="200"/>  
 </div>
 
 
