@@ -6,8 +6,7 @@
 
 
 
--  Minecraft Server Configurator & Setup Specialist
+-  ᴍɪɴᴇᴄʀᴀꜰᴛ ꜱᴇʀᴠᴇʀ ᴄᴏɴꜰɪɢᴜʀᴀᴛᴏʀ & ꜱᴇᴛᴜᴘ ꜱᴘᴇᴄɪᴀʟɪꜱᴛ
+-  ᴅɪꜱᴄᴏʀᴅ ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ
 
-- 
 
-- 
