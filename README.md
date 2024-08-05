@@ -4,10 +4,9 @@
 
 
 <div id ="views" align="center">
-<img src="https://komarev.com/ghpvc/?username=sciteeer&style=flat-square&color=blue"/>  
+<img src="https://komarev.com/ghpvc/?username=sciteeer&style=flat-square&color=blue&"width="300"/>  
 </div>
 
-<h1 align="center">Hello! 👋</h1>
 
 -  
 
