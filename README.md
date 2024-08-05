@@ -6,7 +6,7 @@
 
 
 
--  
+-  Minecraft Server Configurator & Setup Specialist
 
 - 
 
