@@ -1,7 +1,7 @@
 <div id ="views" align="left">
 <img src="https://komarev.com/ghpvc/?username=sciteeer&style=flat-square&color=blue"/>  
 </div>
-<div id="badges" align = "center">
+<div id="badges" align = "left">
   <a href="https://linktr.ee/SciTer">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
