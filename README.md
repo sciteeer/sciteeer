@@ -8,5 +8,4 @@
 
 <h1 align="center"></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&multiline=true&repeat=false&width=600&height=60&lines=-+Minecraft+Server+Configurator+%26+Setup+Specialist;-+Discord+Bot+Developer" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=F7F7F7&multiline=true&repeat=false&width=600&height=60&lines=-+Minecraft+Server+Configurator+%26+Setup+Specialist;-+Discord+Bot+Developer" alt="Typing SVG" /></a>
