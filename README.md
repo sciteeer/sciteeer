@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chopsic&weight=900&size=100&duration=6000&pause=100&color=009CFF&center=true&width=500&height=150&lines=SciTer" alt="Typing SVG" /></a>
+ <a href="SciTerfont=Chopsic&weight=900&size=100&duration=6000&pause=100&color=009CFF&center=true&width=500&height=150&lines=SciTer" alt="Typing SVG" /></a>
 </div>
 
 <h1 align="center"></h1>
